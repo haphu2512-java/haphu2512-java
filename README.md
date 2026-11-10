@@ -63,6 +63,14 @@ Messaging platform for classrooms: class, group and 1-1 chat, file sharing, voic
 - Socket.io for real-time messaging, typing and read receipts; WebRTC for calls.
 - React web client and React Native mobile client; JWT authentication with role-based access.
 
+### 📸 [SnapNow](https://github.com/giasinguyen/snapnow-social-media-app) · Team project
+
+Social media platform for sharing photos and stories, built by a team of three for the Mobile Application Development course.
+
+- React Native + Expo + TypeScript mobile app, Express.js backend, React + Vite admin dashboard, all on Firebase (Auth, Firestore, Storage).
+- My part, about 100 commits on the mobile app: dark mode across the app, chat themes and group creation, search with hashtags and debounced input, saved posts, story drafts and archive, change and reset password.
+- Worked through feature branches and pull requests reviewed by the team.
+
 ### 💰 [Asset-Management](https://github.com/haphu2512-java/Asset-Management)
 
 Personal finance mobile app built with React Native, Expo and TypeScript on Supabase.
